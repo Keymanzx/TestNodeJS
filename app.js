@@ -11,7 +11,7 @@ app.use(morgan('combined'));
 
 app.get("/",(req,res) =>{
 
-    res.send('Hello Node JS ...... ');
+    res.send('Hello Node JS Express .....  ');
 
 })
 
